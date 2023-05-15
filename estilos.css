@@ -1,0 +1,36 @@
+a{
+    font-size: 20px;
+ 
+    /*text-decoration:none;*/
+    /*margin: 10px 10px 10px 10px;*/
+    /*font-weight: 400;*/
+    background-color: whitesmoke;
+    /*color: teal;*/
+    /*padding: 10px 20px;*/
+    /*box-shadow: 0px 5px 0px #605F5F;*/
+}
+
+a :link{
+    color: rgb(226, 15, 0);
+}
+/*
+a:visited{
+    color: #000;
+}
+
+a:hover{
+    box-shadow: 0px 2px 0px #605F5F;
+    text-decoration: underline;
+    background:teal;
+    color: #fff;
+}
+
+a:active{
+    box-shadow:none;
+    background: #605F5F;
+}
+
+
+image:hover{
+    background:teal;
+}
